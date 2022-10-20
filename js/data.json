@@ -1,0 +1,44 @@
+[
+    {
+       "id":1,
+       "nombre":"Camiseta titular",
+       "precio":9500,
+       "img":"titular.webp"
+    },
+    {
+       "id":2,
+       "nombre":"Camiseta suplente",
+       "precio":8700,
+       "img":"camisetahomenaje.jpg"
+    },
+    {
+       "id":3,
+       "nombre":"Buzo GIVOVA",
+       "precio":10500,
+       "img":"buzo.jpg"
+    },
+    {
+       "id":4,
+       "nombre":"Campera oficial",
+       "precio":12000,
+       "img":"campera.jpg"
+    },
+    {
+       "id":5,
+       "nombre":"Musculosas femeninas",
+       "precio":4500,
+       "img":"musculosas.jpg"
+    },
+    {
+       "id":6,
+       "nombre":"Calzas deportivas",
+       "precio":5500,
+       "img":"calza.webp"
+    },
+    {
+       "id":7,
+       "nombre":"Camisetas niños/as",
+       "precio":6500,
+       "img":"camiseta niñosjpg.jpg"
+    }
+ ]
